@@ -1,0 +1,16 @@
+.box{
+    width: 50px;
+    height: 50px;
+    background: red;
+}
+
+.red{
+    background: red;
+    transition: .5s;
+}
+
+.green{
+    background: green;
+    border-radius: 30px;
+    transition: .5s;
+}
